@@ -1,0 +1,147 @@
+extension,description,category
+aif,AIF audio file,Audio file formats by file extensions
+cda,CD audio track file,Audio file formats by file extensions
+mid,MIDI audio file,Audio file formats by file extensions
+midi,MIDI audio file,Audio file formats by file extensions
+mp3,MP3 audio file,Audio file formats by file extensions
+mpa,MPEG-2 audio file,Audio file formats by file extensions
+ogg,Ogg Vorbis audio file,Audio file formats by file extensions
+wav,WAV file,Audio file formats by file extensions
+wma,WMA audio file,Audio file formats by file extensions
+wpl,Windows Media Player playlist,Audio file formats by file extensions
+7z,7-Zip compressed file,Compressed file extensions
+arj,ARJ compressed file,Compressed file extensions
+deb,Debian software package file,Compressed file extensions
+pkg,Package file,Compressed file extensions
+rar,RAR file,Compressed file extensions
+rpm,Red Hat Package Manager,Compressed file extensions
+tar.gz,Tarball compressed file,Compressed file extensions
+z,Z compressed file,Compressed file extensions
+zip,Zip compressed file,Compressed file extensions
+bin,Binary disc image,Disc and media file extensions
+dmg,macOS X disk image,Disc and media file extensions
+iso,ISO disc image,Disc and media file extensions
+toast,Toast disc image,Disc and media file extensions
+vcd,Virtual CD,Disc and media file extensions
+csv,Comma separated value file,Data and database file extensions
+dat,Data file,Data and database file extensions
+db,Database file,Data and database file extensions
+dbf,Database file,Data and database file extensions
+log,Log file,Data and database file extensions
+mdb,Microsoft Access database file,Data and database file extensions
+sav,"Save file (e.g., game save file)",Data and database file extensions
+sql,SQL database file,Data and database file extensions
+tar,Linux / Unix tarball file archive,Data and database file extensions
+xml,XML file,Data and database file extensions
+email,Outlook Express e-mail message file,E-mail file extensions
+eml,"E-mail message file from multiple e-mail clients, including Gmail",E-mail file extensions
+emlx,Apple Mail e-mail file,E-mail file extensions
+msg,Microsoft Outlook e-mail message file,E-mail file extensions
+oft,Microsoft Outlook e-mail template file,E-mail file extensions
+ost,Microsoft Outlook offline e-mail storage file,E-mail file extensions
+pst,Microsoft Outlook e-mail storage file,E-mail file extensions
+vcf,E-mail contact file,E-mail file extensions
+apk,Android package file,Executable file extensions
+bat,Batch file,Executable file extensions
+bin,Binary file,Executable file extensions
+cgi,Perl script file,Executable file extensions
+pl,Perl script file,Executable file extensions
+com,MS-DOS command file,Executable file extensions
+exe,Executable file,Executable file extensions
+gadget,Windows gadget,Executable file extensions
+jar,Java Archive file,Executable file extensions
+msi,Windows installer package,Executable file extensions
+py,Python file,Executable file extensions
+wsf,Windows Script File,Executable file extensions
+fnt,Windows font file,Font file extensions
+fon,Generic font file,Font file extensions
+otf,Open type font file,Font file extensions
+ttf,TrueType font file,Font file extensions
+ai,Adobe Illustrator file,Image file formats by file extension
+bmp,Bitmap image,Image file formats by file extension
+gif,GIF image,Image file formats by file extension
+ico,Icon file,Image file formats by file extension
+jpeg,JPEG image,Image file formats by file extension
+jpg,JPEG image,Image file formats by file extension
+png,PNG image,Image file formats by file extension
+ps,PostScript file,Image file formats by file extension
+psd,PSD image,Image file formats by file extension
+svg,Scalable Vector Graphics file,Image file formats by file extension
+tif,TIFF image,Image file formats by file extension
+tiff,TIFF image,Image file formats by file extension
+asp,Active Server Page file,Internet-related file extensions
+aspx,Active Server Page file,Internet-related file extensions
+cer,Internet security certificate,Internet-related file extensions
+cfm,ColdFusion Markup file,Internet-related file extensions
+cgi,Perl script file,Internet-related file extensions
+pl,Perl script file,Internet-related file extensions
+css,Cascading Style Sheet file,Internet-related file extensions
+htm,HTML file,Internet-related file extensions
+html,HTML file,Internet-related file extensions
+js,JavaScript file,Internet-related file extensions
+jsp,Java Server Page file,Internet-related file extensions
+part,Partially downloaded file,Internet-related file extensions
+php,PHP file,Internet-related file extensions
+py,Python file,Internet-related file extensions
+rss,RSS file,Internet-related file extensions
+xhtml,XHTML file,Internet-related file extensions
+key,Keynote presentation,Presentation file formats by file extension
+odp,OpenOffice Impress presentation file,Presentation file formats by file extension
+pps,PowerPoint slide show,Presentation file formats by file extension
+ppt,PowerPoint presentation,Presentation file formats by file extension
+pptx,PowerPoint Open XML presentation,Presentation file formats by file extension
+c,C and C++ source code file,Programming files by file extensions
+cgi,Perl script file,Programming files by file extensions
+pl,Perl script file,Programming files by file extensions
+class,Java class file,Programming files by file extensions
+cpp,C++ source code file,Programming files by file extensions
+cs,Visual C# source code file,Programming files by file extensions
+h,"C, C++, and Objective-C header file",Programming files by file extensions
+java,Java Source code file,Programming files by file extensions
+php,PHP script file,Programming files by file extensions
+py,Python script file,Programming files by file extensions
+sh,Bash shell script,Programming files by file extensions
+swift,Swift source code file,Programming files by file extensions
+vb,Visual Basic file,Programming files by file extensions
+ods,OpenOffice Calc spreadsheet file,Spreadsheet file formats by file extension
+xls,Microsoft Excel file,Spreadsheet file formats by file extension
+xlsm,Microsoft Excel file with macros,Spreadsheet file formats by file extension
+xlsx,Microsoft Excel Open XML spreadsheet file,Spreadsheet file formats by file extension
+bak,Backup file,System related file formats and file extensions
+cab,Windows Cabinet file,System related file formats and file extensions
+cfg,Configuration file,System related file formats and file extensions
+cpl,Windows Control panel file,System related file formats and file extensions
+cur,Windows cursor file,System related file formats and file extensions
+dll,DLL file,System related file formats and file extensions
+dmp,Dump file,System related file formats and file extensions
+drv,Device driver file,System related file formats and file extensions
+icns,macOS X icon resource file,System related file formats and file extensions
+ico,Icon file,System related file formats and file extensions
+ini,Initialization file,System related file formats and file extensions
+lnk,Windows shortcut file,System related file formats and file extensions
+msi,Windows installer package,System related file formats and file extensions
+sys,Windows system file,System related file formats and file extensions
+tmp,Temporary file,System related file formats and file extensions
+3g2,3GPP2 multimedia file,Video file formats by file extension
+3gp,3GPP multimedia file,Video file formats by file extension
+avi,AVI file,Video file formats by file extension
+flv,Adobe Flash file,Video file formats by file extension
+h264,H.264 video file,Video file formats by file extension
+m4v,Apple MP4 video file,Video file formats by file extension
+mkv,Matroska Multimedia Container,Video file formats by file extension
+mov,Apple QuickTime movie file,Video file formats by file extension
+mp4,MPEG4 video file,Video file formats by file extension
+mpg,MPEG video file,Video file formats by file extension
+mpeg,MPEG video file,Video file formats by file extension
+rm,RealMedia file,Video file formats by file extension
+swf,Shockwave flash file,Video file formats by file extension
+vob,DVD Video Object,Video file formats by file extension
+wmv,Windows Media Video file,Video file formats by file extension
+doc,Microsoft Word file,Word processor and text file formats by file extension
+docx,Microsoft Word file,Word processor and text file formats by file extension
+odt,OpenOffice Writer document file,Word processor and text file formats by file extension
+pdf,PDF file,Word processor and text file formats by file extension
+rtf,Rich Text Format,Word processor and text file formats by file extension
+tex,A LaTeX document file,Word processor and text file formats by file extension
+txt,Plain text file,Word processor and text file formats by file extension
+wpd,WordPerfect document,Word processor and text file formats by file extension
